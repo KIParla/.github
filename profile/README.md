@@ -4,10 +4,10 @@ Visit our [Homepage](https://www.kiparla.it) and explore the [NoSketch Engine in
 
 | Module | repository |
 | ----   | ----      |
-| KIP | [https://github.com/KIParla/KIP] |
-| ParlaBO | [https://github.com/KIParla/ParlaBO] |
-| ParlaTO | [https://github.com/KIParla/ParlaTO] |
-| KIPasti | [https://github.com/KIParla/KIPasti] |
+| KIP | https://github.com/KIParla/KIP |
+| ParlaBO | https://github.com/KIParla/ParlaBO |
+| ParlaTO | https://github.com/KIParla/ParlaTO |
+| KIPasti | https://github.com/KIParla/KIPasti |
 | StraParlaBO | coming soon |
 | StraParlaTO | coming soon |
 
