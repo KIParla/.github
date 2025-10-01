@@ -1,5 +1,16 @@
 # The KIParla Corpus - Spoken Italian and who speaks Italian
 
+Visit our [Homepage](https://www.kiparla.it) and explore the [NoSketch Engine interface](https://kiparla.it/search/).
+
+| Module | repository |
+| ----   | ----      |
+| KIP | [https://github.com/KIParla/KIP] |
+| ParlaBO | [https://github.com/KIParla/ParlaBO] |
+| ParlaTO | [https://github.com/KIParla/ParlaTO] |
+| KIPasti | [https://github.com/KIParla/KIPasti] |
+| StraParlaBO | coming soon |
+| StraParlaTO | coming soon |
+
 ## A new resource for spoken Italian
 
 The KIParla Corpus collects more than 150 h of conversations, recorded in Bologna, Turin and other cities, transcribed and aligned with audio. The search interface allows results to be filtered by sociodemographic parameters, such as age, gender, city of origin, and educational qualification.
