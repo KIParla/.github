@@ -11,6 +11,8 @@ Visit our [Homepage](https://www.kiparla.it) and explore the [NoSketch Engine in
 | StraParlaBO | coming soon |
 | StraParlaTO | coming soon |
 
+The full collection can be found [here](https://github.com/KIParla/KIParla-collection)
+
 ## A new resource for spoken Italian
 
 The KIParla Corpus collects more than 150 h of conversations, recorded in Bologna, Turin and other cities, transcribed and aligned with audio. The search interface allows results to be filtered by sociodemographic parameters, such as age, gender, city of origin, and educational qualification.
