@@ -4,13 +4,13 @@ Visit our [Homepage](https://www.kiparla.it) and explore the [NoSketch Engine in
 
 | Module | Repository | Released versions |
 | --- | --- | --- |
-| KIP | https://github.com/KIParla/KIP | [v1.1.1](https://github.com/KIParla/KIP/releases/tag/v1.1.1), [v1.1.0](https://github.com/KIParla/KIP/releases/tag/v1.1.0), [v1.0.0](https://github.com/KIParla/KIP/releases/tag/v1.0.0) |
-| ParlaBO | https://github.com/KIParla/ParlaBO | [v1.1.1](https://github.com/KIParla/ParlaBO/releases/tag/v1.1.1), [v1.1.0](https://github.com/KIParla/ParlaBO/releases/tag/v1.1.0), [v1.0.0](https://github.com/KIParla/ParlaBO/releases/tag/v1.0.0) |
-| ParlaTO | https://github.com/KIParla/ParlaTO | [v1.1.1](https://github.com/KIParla/ParlaTO/releases/tag/v1.1.1), [v1.1.0](https://github.com/KIParla/ParlaTO/releases/tag/v1.1.0), [v1.0.0](https://github.com/KIParla/ParlaTO/releases/tag/v1.0.0) |
-| KIPasti | https://github.com/KIParla/KIPasti | [v1.1.2](https://github.com/KIParla/KIPasti/releases/tag/v1.1.2), [v1.1.0](https://github.com/KIParla/KIPasti/releases/tag/v1.1.0), [v1.0.0](https://github.com/KIParla/KIPasti/releases/tag/v1.0.0) |
-| ParlaBZ | https://github.com/KIParla/ParlaBZ | first release coming soon |
-| Stra-ParlaBO | https://github.com/KIParla/Stra-ParlaBO | first release coming soon |
-| Stra-ParlaTO | https://github.com/KIParla/Stra-ParlaTO | first release coming soon |
+| KIP | https://github.com/KIParla/KIP | [v2.0.0](https://github.com/KIParla/KIP/releases/tag/v2.0.0), [v1.1.1](https://github.com/KIParla/KIP/releases/tag/v1.1.1), [v1.1.0](https://github.com/KIParla/KIP/releases/tag/v1.1.0), [v1.0.0](https://github.com/KIParla/KIP/releases/tag/v1.0.0) |
+| ParlaBO | https://github.com/KIParla/ParlaBO | [v2.0.0](https://github.com/KIParla/ParlaBO/releases/tag/v2.0.0), [v1.1.1](https://github.com/KIParla/ParlaBO/releases/tag/v1.1.1), [v1.1.0](https://github.com/KIParla/ParlaBO/releases/tag/v1.1.0), [v1.0.0](https://github.com/KIParla/ParlaBO/releases/tag/v1.0.0) |
+| ParlaTO | https://github.com/KIParla/ParlaTO | [v2.0.0](https://github.com/KIParla/ParlaTO/releases/tag/v2.0.0), [v1.1.1](https://github.com/KIParla/ParlaTO/releases/tag/v1.1.1), [v1.1.0](https://github.com/KIParla/ParlaTO/releases/tag/v1.1.0), [v1.0.0](https://github.com/KIParla/ParlaTO/releases/tag/v1.0.0) |
+| KIPasti | https://github.com/KIParla/KIPasti | [v2.0.0](https://github.com/KIParla/KIPasti/releases/tag/v2.0.0), [v1.1.2](https://github.com/KIParla/KIPasti/releases/tag/v1.1.2), [v1.1.0](https://github.com/KIParla/KIPasti/releases/tag/v1.1.0), [v1.0.0](https://github.com/KIParla/KIPasti/releases/tag/v1.0.0) |
+| ParlaBZ | https://github.com/KIParla/ParlaBZ | [v1.0.0](https://github.com/KIParla/ParlaBZ/releases/tag/v1.0.0) |
+| Stra-ParlaBO | https://github.com/KIParla/Stra-ParlaBO | [v1.0.0](https://github.com/KIParla/Stra-ParlaBO/releases/tag/v1.0.0) |
+| Stra-ParlaTO | https://github.com/KIParla/Stra-ParlaTO | [v1.0.0](https://github.com/KIParla/Stra-ParlaTO/releases/tag/v1.0.0) |
 
 ## The KIParla resource
 
