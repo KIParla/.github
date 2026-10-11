@@ -1,0 +1,41 @@
+name: Segnalazione di errore nei dati
+description: Segnala un errore di trascrizione o di metadati in una conversazione del corpus
+title: "[segnalazione] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Grazie per la segnalazione! Aprendo questa issue dal link in NoSketch Engine, il titolo
+        indica già la conversazione, l'unità di trascrizione e il parlante. Le segnalazioni
+        servono a correggere i dati in modo sistematico nella prossima release del modulo.
+  - type: input
+    id: page
+    attributes:
+      label: Pagina della conversazione
+      description: Link alla trascrizione (di solito già compilato).
+      placeholder: https://kiparla.github.io/KIParla-artifacts/...
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Che tipo di errore è?
+      options:
+        - Trascrizione (parole, punteggiatura, simboli)
+        - Segmentazione o attribuzione al parlante
+        - Allineamento con l'audio
+        - Anonimizzazione
+        - Metadati (della conversazione o del parlante)
+        - Altro
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Cosa non va?
+      description: Descrivi l'errore, con il testo come appare ora.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Correzione proposta
+      description: Se sai come dovrebbe essere, scrivilo qui (facoltativo).
