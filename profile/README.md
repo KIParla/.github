@@ -11,7 +11,6 @@ Visit our [Homepage](https://www.kiparla.it) and explore the [NoSketch Engine in
 | ParlaBZ | https://github.com/KIParla/ParlaBZ | [v2.0.0](https://github.com/KIParla/ParlaBZ/releases/tag/v2.0.0), [v1.1.0](https://github.com/KIParla/ParlaBZ/releases/tag/v1.1.0), [v1.0.0](https://github.com/KIParla/ParlaBZ/releases/tag/v1.0.0) |
 | Stra-ParlaBO | https://github.com/KIParla/Stra-ParlaBO | [v2.0.0](https://github.com/KIParla/Stra-ParlaBO/releases/tag/v2.0.0), [v1.1.0](https://github.com/KIParla/Stra-ParlaBO/releases/tag/v1.1.0), [v1.0.0](https://github.com/KIParla/Stra-ParlaBO/releases/tag/v1.0.0) |
 | Stra-ParlaTO | https://github.com/KIParla/Stra-ParlaTO | [v2.0.0](https://github.com/KIParla/Stra-ParlaTO/releases/tag/v2.0.0), [v1.1.1](https://github.com/KIParla/Stra-ParlaTO/releases/tag/v1.1.1), [v1.1.0](https://github.com/KIParla/Stra-ParlaTO/releases/tag/v1.1.0), [v1.0.0](https://github.com/KIParla/Stra-ParlaTO/releases/tag/v1.0.0) |
-| KIParla-collection (data)| https://github.com/KIParla/KIParla-collection | [v1.0.5](https://github.com/KIParla/KIParla-collection/releases/tag/v1.0.5), [v1.0.4](https://github.com/KIParla/KIParla-collection/releases/tag/v1.0.4), [v1.0.3](https://github.com/KIParla/KIParla-collection/releases/tag/v1.0.3), [v1.0.2](https://github.com/KIParla/KIParla-collection/releases/tag/v1.0.2), [v1.0.1](https://github.com/KIParla/KIParla-collection/releases/tag/v1.0.1), [v1.0.0](https://github.com/KIParla/KIParla-collection/releases/tag/v1.0.0) |
 
 ## The KIParla resource
 
