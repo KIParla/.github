@@ -33,7 +33,7 @@ The collection total is lower than the sum of the modules because 16 conversatio
 
 ### A new resource for spoken Italian
 
-The KIParla Corpus collects more than 150 h of conversations, recorded in Bologna, Turin and other cities, transcribed and aligned with audio. The search interface allows results to be filtered by sociodemographic parameters, such as age, gender, city of origin, and educational qualification.
+The KIParla Corpus collects more than 340 h of conversations, recorded in Bologna, Turin and other cities, transcribed and aligned with audio. The search interface allows results to be filtered by sociodemographic parameters, such as age, gender, city of origin, and educational qualification.
 
 ### Texts and voices: who is speaking?
 
