@@ -27,7 +27,7 @@ Hours are the total duration of the recorded conversations; linguistic tokens ar
 | Stra-ParlaTO | 82 | 48.5 | 437,975 |
 | **KIParla collection** | **496** | **341.3** | **3,108,589** |
 
-The collection total is lower than the sum of the modules because 16 conversations belong to both KIP and ParlaBO and are counted once.
+The collection total is lower than the sum of the modules because 16 conversations belong to both KIP and ParlaTO and are counted once.
 
 ## The KIParla resource
 
