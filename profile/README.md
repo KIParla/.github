@@ -12,6 +12,23 @@ Visit our [Homepage](https://www.kiparla.it) and explore the [NoSketch Engine in
 | Stra-ParlaBO | https://github.com/KIParla/Stra-ParlaBO | [v2.0.0](https://github.com/KIParla/Stra-ParlaBO/releases/tag/v2.0.0), [v1.1.0](https://github.com/KIParla/Stra-ParlaBO/releases/tag/v1.1.0), [v1.0.0](https://github.com/KIParla/Stra-ParlaBO/releases/tag/v1.0.0) |
 | Stra-ParlaTO | https://github.com/KIParla/Stra-ParlaTO | [v2.0.0](https://github.com/KIParla/Stra-ParlaTO/releases/tag/v2.0.0), [v1.1.1](https://github.com/KIParla/Stra-ParlaTO/releases/tag/v1.1.1), [v1.1.0](https://github.com/KIParla/Stra-ParlaTO/releases/tag/v1.1.0), [v1.0.0](https://github.com/KIParla/Stra-ParlaTO/releases/tag/v1.0.0) |
 
+## Size of the corpus
+
+Hours are the total duration of the recorded conversations; linguistic tokens are the transcribed words (pauses, nonverbal behaviors, unintelligible spans and transcription errors are not counted).
+
+| Module | Conversations | Hours | Linguistic tokens |
+| --- | ---: | ---: | ---: |
+| KIP | 121 | 69.4 | 582,985 |
+| ParlaBO | 85 | 65.7 | 617,878 |
+| ParlaTO | 67 | 49.5 | 485,904 |
+| KIPasti | 63 | 42.8 | 411,548 |
+| ParlaBZ | 10 | 5.3 | 51,217 |
+| Stra-ParlaBO | 84 | 67.9 | 599,297 |
+| Stra-ParlaTO | 82 | 48.5 | 437,975 |
+| **KIParla collection** | **496** | **341.3** | **3,108,589** |
+
+The collection total is lower than the sum of the modules because 16 conversations belong to both KIP and ParlaBO and are counted once.
+
 ## The KIParla resource
 
 ### A new resource for spoken Italian
